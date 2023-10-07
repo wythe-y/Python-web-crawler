@@ -1,0 +1,11 @@
+需要事先安装好环境
+代码中有具体注释
+浏览器环境为chrome，需要安装相应版本的chromedriver
+运行时如果有弹窗需要事先设置好环境偏好，防止弹窗中断允许
+系统反应时间均设置为2，环境差可能会影响正常读取
+
+The environment needs to be installed in advance
+There are specific comments in the code
+The browser environment is chrome, and the corresponding version of chromedriver needs to be installed.
+If there is a pop-up window when running, you need to set the environment preferences in advance to prevent the pop-up window from interrupting and allowing
+The system response time is set to 2. Poor environment may affect normal reading.
